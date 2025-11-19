@@ -7,7 +7,7 @@
     <b>Creative Developer | UI/UX Enthusiast | Open Source Contributor</b>
   </p>
   
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/mascris">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:amineserrar20@email.com">
