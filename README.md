@@ -13,7 +13,7 @@
   <a href="mailto:amineserrar20@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[web-site-gu4p.vercel.app/](https://mascris.github.io/)">
+  <a href="web-site-gu4p.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
