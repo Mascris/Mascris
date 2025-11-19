@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250"/> 
   
-  <h1 align="center">Hi there, I'm <a href="https://your-portfolio-link.com">Mascris</a>! 👋</h1>
+  <h1 align="center">Hi there, I'm <a href="https://web-site-gu4p.vercel.app/">Mascris</a>! 👋</h1>
 
   <p align="center">
     <b>Creative Developer | UI/UX Enthusiast | Open Source Contributor</b>
@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- CHANGE 'yourusername' BELOW TO YOUR ACTUAL USERNAME -->
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Mascris&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascris&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <!-- CHANGE 'yourusername' BELOW -->
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mascris&theme=tokyonight&hide_border=true&background=0d1117" alt="streak graph" />
 </div>
