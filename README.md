@@ -20,12 +20,27 @@
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 Hi, I'm Amine Serrar!
 
-- 🔭 I’m currently working on **High-end portfolio designs**
-- 🌱 I’m currently learning **Next.js and Three.js**
-- 👯 I’m looking to collaborate on **Open Source React Projects**
-- ⚡ Fun fact: **I code faster when listening to rock music.**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I am a Frontend developer in training with a love for terminal-based workflows.
+
+- 🔭 **Project:** Building high-end, pixel-perfect portfolios.
+- 🌱 **Learning:** Mastering the **React** ecosystem and **Python** OOP.
+- 🎸 **Vibe:** Fueled by coffee and Rock music.
+
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+[Website](https://web-site-gu4p.vercel.app/) • [Linkedin](https://linkedin.com/in/mascris)
 
 ---
 
