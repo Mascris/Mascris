@@ -1,24 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250"/> 
-  
-  <h1 align="center">Hi there, I'm <a href="https://web-site-gu4p.vercel.app/">Mascris</a>! 👋</h1>
-
-  <p align="center">
-    <b>Creative Developer | UI/UX Enthusiast | Open Source Contributor</b>
-  </p>
-  
-  <a href="https://linkedin.com/in/mascris">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amineserrar20@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://web-site-gu4p.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
-
----
 
 # 👨‍💻 Hi, I'm Amine Serrar!
 
