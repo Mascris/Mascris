@@ -15,7 +15,7 @@
 I am a **Frontend Developer** in training with a passion for efficiency. I skipped the mouse—I prefer the speed of **terminal-based workflows**.
 
 - 🔭 **Project:** Building pixel-perfect, responsive React web apps.
-- 🌱 **Learning:** Mastering the **React** ecosystem and **Python** OOP.
+- 🌱 **Learning:** the **React** ecosystem and **Python**.
 - 🐧 **OS:** I run **Linux** as my daily driver.
 - ⚡ **Fun fact:** I code faster when listening to **Rock music** 🎸.
 
