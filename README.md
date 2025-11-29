@@ -16,7 +16,7 @@ I am a **Frontend Developer** in training with a passion for efficiency. I skipp
 
 - 🔭 **Project:** Building pixel-perfect, responsive React web apps.
 - 🌱 **Learning:** the **React** ecosystem and **Python**.
-- 🐧 **OS:** I run **Linux** as my daily driver.
+- 🐧 **OS:** I run **Linux** as my daily driver Since 18/04/2025.
 - ⚡ **Fun fact:** I code faster when listening to **Rock music** 🎸.
 
 ---
