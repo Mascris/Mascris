@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me.
 
-I am a **Frontend Developer** in training with a passion for efficiency. I skipped the mouse—I prefer the speed of **terminal-based workflows**.
+I am a **Frontend Developer** in training with a passion for efficiency. I prefer**terminal-based workflows**.
 
 - 🔭 **Project:** Building pixel-perfect, responsive React web apps.
 - 🌱 **Learning:** the **React** ecosystem and **Python**.
