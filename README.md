@@ -15,7 +15,7 @@
 I am a **Developer** in training with a passion for efficiency. I prefer **terminal-based workflows**.
 
 - 🔭 **Project:** Building pixel-perfect, responsive React web apps.
-- 🌱 **Learning:** **ASM** and **Python**,*C/C++* ##ETC.
+- 🌱 **Learning:** **ASM** and **Python**,*C/C++*,*ETC*.
 - 🐧 **OS:** I run **Linux** as my daily driver Since 18/04/2025.
 
 ---
